@@ -27,7 +27,7 @@
 Part 1
 </h3>
 
-<img src=https://github.com/edmarpaulino/born2beroot/blob/master/img/your-world.png alt=edpaulin's 42Project Badge/>
+<img src=https://github.com/edmarpaulino/born2beroot/blob/master/img/your-world.png alt=edpaulin's 42Project/>
 
 > <i>This project aims to introduce you to the wonderful world of virtualization.</i>
 
