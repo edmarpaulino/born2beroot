@@ -23,13 +23,16 @@
 
 ---
 
+
+<div align=center>
+<img src=https://github.com/edmarpaulino/born2beroot/blob/master/img/your-world.png alt=edpaulin's 42Project/>
+</div>
+
 <h3 align=center>
 Part 1
 </h3>
-
-<img src=https://github.com/edmarpaulino/born2beroot/blob/master/img/your-world.png alt=edpaulin's 42Project/>
-
-> <i>This project aims to introduce you to the wonderful world of virtualization.</i>
+											 
+> <i>This project aims to introduce you to the wonderful world of virtualization, and this project consists of having you set up your first server by following specific rules.</i>
 
 <p align=center>
 
@@ -51,5 +54,31 @@ Bonus
 The project
 </h2>
 
-### Operating System 
+### Operating System
+### LVM
+### DNF												 
+### SE Linux
+### SSH
+### UFW
+### Hostname
+### Password policy
+### SUDO
+### Groups and Users
+### Monitoring script
 
+---												 
+												 
+<h2>
+Bonus
+</h2>
+												 
+### Lighttpd
+### MariaDB
+### PHP
+### WordPress
+
+---
+
+<h3>												 
+References
+</h3>
