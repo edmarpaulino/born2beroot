@@ -712,6 +712,10 @@ sudo chmod -R 755 /var/www/html/wordpress
 ```bash
 sudo chcon -R -t httpd_sys_rw_content_t /var/www/html/wordpress
 ```
+Check and finish configuring `Wordpress` by accessing in your web browser the `/wordpress` folder after your IP address, like this:
+```
+111.222.333.444/wordpress
+```
 
 ### Fail2ban
 
