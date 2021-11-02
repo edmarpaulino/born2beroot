@@ -16,7 +16,7 @@
 <h2>
 	Final score
 </h2>
-<img src=https://github.com/edmarpaulino/42projects_pics/blob/master/score_edpaulin_libft.png alt=edpaulin's 42Project Score/>
+<img src=https://github.com/edmarpaulino/42projects_pics/blob/master/score_125.png alt=edpaulin's 42Project Score/>
 <h4>Completed + Bonus</h4>
 <img src=https://github.com/edmarpaulino/42projects_pics/blob/master/born2berootm.png alt=edpaulin's 42Project Badge/>
 </div>
